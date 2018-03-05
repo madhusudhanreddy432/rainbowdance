@@ -2,3 +2,4 @@ left
 right
 jump
 down
+sleep
