@@ -1,5 +1,7 @@
 go 
-to 
+to
+bath 
+and
 bed
 and
 sleep
